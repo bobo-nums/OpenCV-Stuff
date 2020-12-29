@@ -1,2 +1,2 @@
 # Random OpenCV Stuffs
-### Edge detector
+### 1. Edge detection
